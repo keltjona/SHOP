@@ -4,7 +4,6 @@ Java Supermarket App
     About
 
 This Java Supermarket App is a sophisticated yet user-friendly application designed to streamline supermarket operations, featuring distinct interfaces for cashiers and administrators. Developed with precision and a deep understanding of supermarket needs, it aims to enhance efficiency, sales tracking, and customer management. 
-While the creators of this project poured extensive effort and creativity into its development, humorously noting, the compensation might not reflect the immense value it brings to the table.
 
 Features
 
